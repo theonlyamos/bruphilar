@@ -256,7 +256,8 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="full team_blog_colum">
-                    <div class="it_team_img"> <i class="fa fa-user fa-3x"></i>
+                    <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg"
+                            alt="#">
                     </div>
                     <div class="team_feature_head">
                         <h4>Philip Bruce-Arhin</h4>
